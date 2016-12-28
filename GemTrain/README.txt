@@ -1,2 +1,1 @@
-Was my very first Unity project. Was not totally completed as I would like it to be was proud of it at the time.
-I have moved on to other projects but might one day return to improve upon it.
+Was my very first Unity project built off of bare bones code for the Gem objects given by Professor Tom Wexler. It is a Unity game where a train goes around tracks and you control the train by switching tracks to change the path of the trains. The goal is to guide the train towards gems and avoid crashing into other trains. The movement of the trains, switches, the board, train and track assets was all original work by me.
