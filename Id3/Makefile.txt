@@ -1,0 +1,2 @@
+javac MainC.java
+java MainC.java "monks1.csv" id3 1
